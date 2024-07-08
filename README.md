@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkamahKofi
 - 👀 I’m interested in Software Development,UX design and Gaming
 - 🌱 I’m currently learning Python, Figma and dart
-- 💞️ I’m looking to collaborate on Software developement
+- 💞️ I’m looking to collaborate on UX Design Projects and Software developement
 - 📫 How to reach me ...
 
 <!---
